@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  GlobalNews
 //
-//  Created by Johnny Console on 2024-03-19.
+//  Created by Farrell Adebo on 2024-03-19.
 //
 
 import UIKit
